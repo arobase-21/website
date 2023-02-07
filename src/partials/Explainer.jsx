@@ -13,7 +13,7 @@ function Explainer() {
         <div className="py-12 md:py-20">
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h2 className="h2 font-cabinet-grotesk">We support early stage startups and leading tech giants.</h2>
+            <h2 className="h2 font-cabinet-grotesk">Nous soutenons les startups et les grandes entreprises.</h2>
           </div>
 
           {/* Section image */}
@@ -67,8 +67,8 @@ function Explainer() {
                 <div className="w-9 h-9 bg-gray-900 border-2 border-white text-white text-[15px] font-bold rounded-full inline-flex items-center justify-center mb-3">
                   1
                 </div>
-                <h3 className="font-cabinet-grotesk font-bold text-lg">Personalised Outreach</h3>
-                <div className="text-gray-500">Work is is changing faster than at any other time in history.</div>
+                <h3 className="font-cabinet-grotesk font-bold text-lg">Analyse de vos besoins</h3>
+                <div className="text-gray-500">Nous sommes engagés dans la résolution de vos besoins .</div>
               </div>
 
               {/* #2 */}
@@ -76,8 +76,8 @@ function Explainer() {
                 <div className="w-9 h-9 bg-gray-900 border-2 border-white text-white text-[15px] font-bold rounded-full inline-flex items-center justify-center mb-3">
                   2
                 </div>
-                <h3 className="font-cabinet-grotesk font-bold text-lg">Personalised Outreach</h3>
-                <div className="text-gray-500">Work is is changing faster than at any other time in history.</div>
+                <h3 className="font-cabinet-grotesk font-bold text-lg">Présentation de solutions</h3>
+                <div className="text-gray-500">Nous vous fournissons des solutions complètes et adaptées.</div>
               </div>
 
               {/* #3 */}
@@ -85,8 +85,8 @@ function Explainer() {
                 <div className="w-9 h-9 bg-gray-900 border-2 border-white text-white text-[15px] font-bold rounded-full inline-flex items-center justify-center mb-3">
                   3
                 </div>
-                <h3 className="font-cabinet-grotesk font-bold text-lg">Personalised Outreach</h3>
-                <div className="text-gray-500">Work is is changing faster than at any other time in history.</div>
+                <h3 className="font-cabinet-grotesk font-bold text-lg">Implémentation de solutions </h3>
+                <div className="text-gray-500">Nous mettons en place les solutions les plus optimales</div>
               </div>
 
               {/* #4 */}
@@ -94,8 +94,8 @@ function Explainer() {
                 <div className="w-9 h-9 bg-gray-900 border-2 border-white text-white text-[15px] font-bold rounded-full inline-flex items-center justify-center mb-3">
                   4
                 </div>
-                <h3 className="font-cabinet-grotesk font-bold text-lg">Personalised Outreach</h3>
-                <div className="text-gray-500">Work is is changing faster than at any other time in history.</div>
+                <h3 className="font-cabinet-grotesk font-bold text-lg">Accompagnement </h3>
+                <div className="text-gray-500">Nous vous garantissons une assistance technique de qualité.</div>
               </div>
             </div>
           </div>
